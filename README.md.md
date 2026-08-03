@@ -1,4 +1,4 @@
-# **Team 3 Project: Hospital Patient Management System using Data Structures and Algorithms**
+# **Project: Hospital Patient Management System using Data Structures and Algorithms**
 
 ## **Project Title**
 
